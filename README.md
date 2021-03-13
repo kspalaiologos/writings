@@ -2,7 +2,7 @@
 a single place to collectively store every bit of my writings i deem at least remotely valuable.
 
 index:
- * [Cracking a PRNG on the example of Mersenne Twister](p1.md) (_originally and ideally available on [my website](palaiologos.rocks/?id=9), but due to OVH incidents it's temporarily unavailable_).
+ * [Cracking a PRNG on the example of Mersenne Twister](p1.md) (_originally and ideally available on [my website](http://palaiologos.rocks/?id=9), but due to OVH incidents it's temporarily unavailable_).
  * [A O(1) solution to the matrix diagonal sum finding problem](pe28.pdf) (_originally located in the euler-apl repository_).
  * [Seed Turing-completeness](tc-seed.pdf) (_written in 2019, "fixed" in 2021, originally hosted in a separate repository_).
  * [(Polish) Various string algorithms, puzzle proofs and solutions](tasks.pfg) (_made originally as a course-entry submission_).
