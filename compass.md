@@ -159,6 +159,6 @@ correlations where they shouldn't be.
 
 ==[ 7. Closing words
 
-    That's it. I don't know a good solution to the problem, and these were a
-few cents I chip to the topic. Till' the next time.
+    That's it. I don't know a good solution to the problem, and that's a
+few cents I chip to the topic, 'till the next time.
 ```
