@@ -118,7 +118,7 @@ taken away.
 government, in a different society, takes a vastly different decision. An act
 is passed which mandates LGBTIQ+ discrimination, and the person considering
 themselves authoritarian decides that the society can't regulate itself and
-an stop harming values the society used to hold.
+an stop harming values it used to hold.
 
     Once again, we stumble upon the same problem. And it's not the problem with
 liberalism. An authoritarian person can hold the same view as a liberal person.
