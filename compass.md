@@ -56,9 +56,10 @@ uniaxial model.
 
     Simply put, a radically authoritarian left-leaning person, for instance,
 P1(-0.1; 0.5), will be placed in the same spot on the uniaxial model as
-P2(0.5; -0.1). For example, libertarian capitalists (P2) share the same spot
-with totalitarians (P1), which doesn't make sense in the slightest, because
-neither of them shares a fair part of ideals and principles.
+P2(0.5; -0.1), a capitalist, libertarian-leaning person. Libertarian
+capitalists (P2) share the same spot with totalitarians (P1), which doesn't
+make sense in the slightest, because neither of them shares a fair part of ideals
+and principles.
 
 ==[ 3. Hey, how about you come back to biaxial model?
 
