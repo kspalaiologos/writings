@@ -7,6 +7,7 @@ index:
  * [Seed Turing-completeness](tc-seed.pdf) (_written in 2019, "fixed" in 2021, originally hosted in a separate repository_).
  * [(Polish) Various string algorithms, puzzle proofs and solutions](tasks.pfg) (_made originally as a course-entry submission_).
  * [Implementing functional devices using SKI calculus](ski.pdf) (_originally published on my website in 2020, doesn't star the most optimal snippets_).
+ * [(Puzzle) Smallest infinite fibonacci program in C - 167 bytes](fib.c) (_originally made in collaboration with Ada; published on my website in 2020_).
 
 # license
 
