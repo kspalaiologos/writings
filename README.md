@@ -6,6 +6,7 @@ index:
  * [A O(1) solution to the matrix diagonal sum finding problem](pe28.pdf) (_originally located in the euler-apl repository_).
  * [Seed Turing-completeness](tc-seed.pdf) (_written in 2019, "fixed" in 2021, originally hosted in a separate repository_).
  * [(Polish) Various string algorithms, puzzle proofs and solutions](tasks.pfg) (_made originally as a course-entry submission_).
+ * [Implementing functional devices using SKI calculus](ski.pdf) (_originally published on my website in 2020, doesn't star the most optimal snippets_).
 
 # license
 
