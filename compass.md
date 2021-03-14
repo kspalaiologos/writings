@@ -1,6 +1,4 @@
 
-Note: This document is a draft (for now!). I'm going to refine it in a while.
-
 ```
 -----------------=[ The political compass isn't an accurate ]=-----------------
 ----------------------=[ representation of one's views ]=----------------------
