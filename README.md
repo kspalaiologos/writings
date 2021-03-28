@@ -9,6 +9,7 @@ index:
  * [Implementing functional devices using SKI calculus](ski.pdf) (_originally published on my website in 2020, doesn't star the most optimal snippets_).
  * [(Puzzle) Smallest infinite fibonacci program in C - 167 bytes](fib.c) (_originally made in collaboration with Ada; published on my website in 2020_).
  * [Political compass is an inaccurate representation of one's views](compass.md) (_written in March 2021, not published on my website yet_).
+ * [Various leap year checking methods](leap.c)
 
 # license
 
