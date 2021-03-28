@@ -10,6 +10,7 @@ index:
  * [(Puzzle) Smallest infinite fibonacci program in C - 167 bytes](fib.c) (_originally made in collaboration with Ada; published on my website in 2020_).
  * [Political compass is an inaccurate representation of one's views](compass.md) (_written in March 2021, not published on my website yet_).
  * [Various leap year checking methods](leap.c)
+ * [Anarchism and it's relation to capitalism](Anarchizm.pdf)
 
 # license
 
